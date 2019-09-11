@@ -1,0 +1,22 @@
+{
+  "name": "expresst",
+  "version": "1.0.0",
+  "description": "Used to learn express",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "express"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "FatimaAviles",
+  "license": "ISC"
+}
